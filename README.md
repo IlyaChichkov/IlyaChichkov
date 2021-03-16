@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IlyaChichkov
-- 👀 I’m interested in games developing
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning c++
 
 <!---
