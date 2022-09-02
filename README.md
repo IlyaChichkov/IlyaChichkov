@@ -13,7 +13,7 @@ I have experience at:
 - 🖥️ Software development on Visual Studio and QT;
 - 🎮 Unity game engine (Mobile games with ADS, monitization);
 - 🎨 Web design (Adobe Photoshop, Adobe Illustrator, Figma);
-- 🕸️ Web applications (Vue, SCSS, TailWind-CSS, Firebase);
+- 🕸️ Web applications (Vue, TypeScript, SCSS, TailWind-CSS, Firebase);
 
 ## Learning
 
