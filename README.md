@@ -19,4 +19,4 @@ List of activities on which my knowledge spread:
 ## Projects
 
 [![CPU Card](https://github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RISC_V-CPU&theme=tokyonight)](https://github.com/IlyaChichkov/RISC_V-CPU)
-[![OS project Card](https://github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=OS-Labs&theme=tokyonight)](https://github.com/IlyaChichkov/OS-Labs)
+[![OS project Card](https://github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RaspPi-Traffic-Lights&theme=tokyonight)](https://github.com/IlyaChichkov/RaspPi-Traffic-Lights)
