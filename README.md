@@ -5,7 +5,8 @@ Student of Moscow National Research University of Electronic Technology. Current
 
 ## Statistics
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyachichkov&show_icons=false&theme=tokyonight&hide_title=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyachichkov&layout=compact&theme=tokyonight)](https://github.com/ilyachichkov/github-readme-stats) 
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyachichkov&show_icons=false&theme=tokyonight&hide_title=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyachichkov&layout=compact&theme=tokyonight)](https://github.com/ilyachichkov/github-readme-stats) |
+| --- | --- |
 
 ## Skills
 
