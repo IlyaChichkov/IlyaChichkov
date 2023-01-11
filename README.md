@@ -5,7 +5,7 @@ Student of Moscow National Research University of Electronic Technology. Current
 
 ## Statistics
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyachichkov&show_icons=false&theme=tokyonight&hide_title=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyachichkov&layout=compact&theme=tokyonight)](https://github.com/ilyachichkov/github-readme-stats) |
+| ![GitHub stats](https://fork-github-readme-stats.vercel.app/api?username=ilyachichkov&show_icons=false&theme=tokyonight&hide_title=true) | [![Top Langs](https://fork-github-readme-stats.vercel.app/api/top-langs/?username=ilyachichkov&layout=compact&theme=tokyonight)](https://github.com/ilyachichkov/github-readme-stats) |
 | --- | --- |
 
 ## Skills
@@ -19,4 +19,4 @@ List of activities on which my knowledge spread:
 
 ## Projects
 
-[![CPU Card](https://github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RISC_V-CPU&theme=tokyonight)](https://github.com/IlyaChichkov/RISC_V-CPU) [![OS project Card](https://github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RaspPi-TrafficLights&theme=tokyonight)](https://github.com/IlyaChichkov/RaspPi-TrafficLights) 
+[![CPU Card](https://fork-github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RISC_V-CPU&theme=tokyonight)](https://github.com/IlyaChichkov/RISC_V-CPU) [![OS project Card](https://fork-github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RaspPi-TrafficLights&theme=tokyonight)](https://github.com/IlyaChichkov/RaspPi-TrafficLights) 
