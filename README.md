@@ -1,7 +1,9 @@
 
-# 👋 HI, i'm Ilya!
+# 👋 Hi there, I'm Ilya!
 
-Student of Moscow National Research University of Electronic Technology. Currently studying hardware, FPGA, low level programming languages and OS architecture. Working on development of the CPU. Also had experience in web design and frontend development. 
+## About me
+
+Student of Moscow National Research University of Electronic Technology. Currently studying hardware, FPGA, low level programming languages and OS architecture. Working on the study project of RISC-V CPU. Also have experience in web design and frontend development. 
 
 ## Statistics
 
@@ -10,11 +12,11 @@ Student of Moscow National Research University of Electronic Technology. Current
 
 ## Skills
 
-List of activities on which my knowledge spread:
+__List of activities on which my knowledge spread:__
 - 🖥️ Software development on Visual Studio and QT;
-- ⚙️ Hardware programms for Raspberry PI, STM32;
+- ⚙️ Hardware programms for Raspberry PI, STM32, Nexus A7;
 - 🎮 Unity game engine (Mobile games with ADS, monitization);
-- 🎨 Web design (Adobe Photoshop, Adobe Illustrator, Figma);
+- 🎨 Web design (Adobe Photoshop, Illustrator; Figma);
 - 🕸️ Web applications (Vue, TypeScript, SCSS, TailWind-CSS, Firebase);
 
 ## Projects
