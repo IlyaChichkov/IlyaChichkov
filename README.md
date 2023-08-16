@@ -3,7 +3,7 @@
 
 ## About me
 
-Student of Moscow National Research University of Electronic Technology. Currently studying hardware, FPGA, low level programming languages and OS architecture. Working on the study project of RISC-V CPU. Also have experience in web design and frontend development. 
+Student of Moscow National Research University of Electronic Technology. Currently studying hardware, FPGA, low level programming languages and OS architecture. Working on the study project of RISC-V CPU. Also have small experience in web development. 
 
 ## Statistics
 
@@ -21,4 +21,4 @@ __List of activities on which my knowledge spread:__
 
 ## Projects
 
-[![CPU Card](https://fork-github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RISC_V-CPU&theme=tokyonight)](https://github.com/IlyaChichkov/RISC_V-CPU) [![OS project Card](https://fork-github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RaspPi-TrafficLights&theme=tokyonight)](https://github.com/IlyaChichkov/RaspPi-TrafficLights) 
+[![CPU Card](https://fork-github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RISC_V-CPU&theme=tokyonight)](https://github.com/IlyaChichkov/RISC_V-CPU) [![OS project Card](https://fork-github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=RaspPi-TrafficLights&theme=tokyonight)](https://github.com/IlyaChichkov/RaspPi-TrafficLights)  [![Verilog Practice](https://fork-github-readme-stats.vercel.app/api/pin/?username=ilyachichkov&repo=Verilog_Labs_2023&theme=tokyonight)](https://github.com/IlyaChichkov/Verilog_Labs_2023)
