@@ -11,7 +11,7 @@ I'm Ilya, student of Moscow National Research University of Electronic Technolog
 
 __Things I'm interested in:__
 - 🖥️ Software development;
-- ⚙️ Hardware development;
+- ⚙️ Hardware development, embedded systems, and IoT edge;
   - Raspberry PI
   - STM32
   - FPGA Xilinx
@@ -20,4 +20,5 @@ __Things I'm interested in:__
 __I also use those tools for my projects:__
 - 🎨 Adobe Photoshop, Illustrator, Figma
 - 🔥 VS Code, Firebase, ILSpy
-- ✍️ Obsidian
+- ✍️ Obsidian, n8n
+- 🚢 Docker, Podman
